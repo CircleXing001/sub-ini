@@ -9,8 +9,10 @@ DOMAIN-WILDCARD,news*.apple.com
 DOMAIN,apple.comscoreresearch.com
 URL-REGEX,^https?:\/\/news-assets\.apple\.com\/(audio-narrative|podcast\/audio)\/.*
 
+DOMAIN-SUFFIX,news-assets.apple.com
 DOMAIN-SUFFIX,news-edge.apple.com
 DOMAIN-SUFFIX,news-todayconfig-edge.apple.com
+DOMAIN-SUFFIX,news-app-events.apple.com
 DOMAIN-SUFFIX,news-events.apple.com
 DOMAIN-SUFFIX,news-sports-events.apple.com
 DOMAIN-SUFFIX,news-client.apple.com
